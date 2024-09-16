@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My java APP</string>
+    <string name="myname1">Hello Mumu1</string>
+    <string name="myname2">Hello Mumu2</string>
+    <string name="myname3">Hello Mumu3</string>
+</resources>
